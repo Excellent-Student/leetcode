@@ -1,0 +1,77 @@
+*.py[cod]
+
+
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+coverage.xml
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+tags
+
+# Virtualenv stuff
+.venv/
+
+# Doc stuff
+_build/
+
+# vim
+*.swp
+*.swo
+
+*.idea
+
+.DS_Store
+
+*.tags
+*.tags1
+
+# tzone
+gen-py/
+.zae/
+dev.yaml
+app.yaml
+cover/
+/databases/
+
+.vscode/
+venv/
+mysql.env
+coverage.out
+play/
+
+.python-version
+vendor
+
+.lcpr_data/
